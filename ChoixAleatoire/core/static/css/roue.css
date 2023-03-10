@@ -1,0 +1,15 @@
+.contain-canvas {
+    position: relative;
+    width: 300px;
+}
+ 
+#canvas {
+    z-index: 1;
+}
+ 
+#prizePointer {
+    position: absolute;
+    left: 125px;
+    z-index: 999;
+}
+ 
